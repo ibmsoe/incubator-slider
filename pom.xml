@@ -134,12 +134,12 @@
     -->
     <hadoop.version>2.6.0</hadoop.version>
 
-    <hbase.version>0.99.0</hbase.version>
+    <hbase.version>1.0.0</hbase.version>
     <accumulo.version>1.6.1</accumulo.version>
     <!--
      artifact versions
     -->
-    <avro.version>1.7.4</avro.version>
+    <avro.version>1.7.7</avro.version>
     <bigtop.version>0.7.0</bigtop.version>
     <commons-codec.version>1.4</commons-codec.version>
     <commons-digester.version>1.8</commons-digester.version>
